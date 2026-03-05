@@ -8,8 +8,8 @@ investment insights for retail investors.
 
 This project was **developed during the Agentic AI Internship at Euron**,
 where the primary objective was to design and implement **multi-agent
-AI systems capable of performing advanced financial analysis and
-decision support**.
+AI systems** capable of performing advanced financial analysis and
+decision support.
 
 Rather than functioning as a traditional financial dashboard,
 FinScope operates as a **coordinated ecosystem of specialized AI
