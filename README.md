@@ -19,6 +19,7 @@ recommendations. In addition, the platform includes an educational
 layer that explains financial metrics such as RSI, EBITDA, and P/E
 ratios in real time, helping users not only make decisions but also
 understand the reasoning behind them.
+
 ------------------------------------------------------------------------
 
 ## ❗ The Problem
