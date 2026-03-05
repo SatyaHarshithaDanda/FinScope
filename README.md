@@ -8,7 +8,7 @@ orchestration to generate actionable market insights for retail
 investors.
 
 Unlike traditional financial dashboards, FinScope operates as a
-**collaborative ecosystem of AI agents 🤖** that analyze market
+**collaborative ecosystem of AI agents ** that analyze market
 sentiment, evaluate company fundamentals, and generate strategic
 investment recommendations. The platform also **educates users by
 explaining complex financial metrics in real time**, making financial
