@@ -15,9 +15,9 @@ Rather than functioning as a traditional financial dashboard,
 FinScope operates as a **coordinated ecosystem of specialized AI
 agents**. These agents collaborate to analyze market sentiment,
 evaluate company fundamentals, and generate strategic portfolio
-recommendations. In addition, the platform includes an **educational
+recommendations. In addition, the platform includes an educational
 layer that explains financial metrics such as RSI, EBITDA, and P/E
-ratios in real time**, helping users not only make decisions but also
+ratios in real time, helping users not only make decisions but also
 understand the reasoning behind them.
 ------------------------------------------------------------------------
 
