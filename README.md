@@ -1,4 +1,4 @@
-# 📊 FinScope -- AI-Driven Investment Portfolio Simulator
+# 📊 FinScope: AI-Driven Investment Portfolio Simulator
 FinScope is an **AI-powered investment portfolio simulator** created to
 bridge the gap between complex financial data and practical financial
 literacy. By leveraging an **Agentic AI architecture**, the platform
