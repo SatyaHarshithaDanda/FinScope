@@ -136,9 +136,10 @@ python finscope.py
 
 ------------------------------------------------------------------------
 
-## 🧪 Example Query
+## 🧪 Example Queries
 
-Analyze NVIDIA stock and provide investment insights.
+1. Analyze NVIDIA stock and provide investment insights.
+2. I have $10,000 and a high risk tolerance. Analyze NVDA and suggest a 6-month investment strategy. Include a risk table and explain what the P/E ratio tells us about its current valuation.
 
 FinScope will generate: - 📰 Latest news sentiment - 📊 Financial
 fundamentals - ⭐ Analyst ratings - ⚠️ Risk insights - 📈 Strategic
