@@ -1,19 +1,24 @@
 # 📊 FinScope -- AI-Driven Investment Portfolio Simulator
+FinScope is an **AI-powered investment portfolio simulator** created to
+bridge the gap between complex financial data and practical financial
+literacy. By leveraging an **Agentic AI architecture**, the platform
+integrates real-time news insights, quantitative market data, and
+intelligent strategy coordination to deliver clear and actionable
+investment insights for retail investors.
 
-FinScope is an **AI-powered investment portfolio simulator** designed to
-bridge the gap between financial data and financial literacy. Built
-using an **Agentic AI architecture**, FinScope combines real-time news
-analysis, quantitative financial data, and intelligent strategy
-orchestration to generate actionable market insights for retail
-investors.
+This project was **developed during the Agentic AI Internship at Euron**,
+where the primary objective was to design and implement **multi-agent
+AI systems capable of performing advanced financial analysis and
+decision support**.
 
-Unlike traditional financial dashboards, FinScope operates as a
-**collaborative ecosystem of AI agents** that analyze market
-sentiment, evaluate company fundamentals, and generate strategic
-investment recommendations. The platform also **educates users by
-explaining complex financial metrics in real time**, making financial
-intelligence accessible to everyone.
-
+Rather than functioning as a traditional financial dashboard,
+FinScope operates as a **coordinated ecosystem of specialized AI
+agents**. These agents collaborate to analyze market sentiment,
+evaluate company fundamentals, and generate strategic portfolio
+recommendations. In addition, the platform includes an **educational
+layer that explains financial metrics such as RSI, EBITDA, and P/E
+ratios in real time**, helping users not only make decisions but also
+understand the reasoning behind them.
 ------------------------------------------------------------------------
 
 ## ❗ The Problem
